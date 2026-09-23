@@ -1,0 +1,7 @@
+{
+  "name": "wpm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Minimal WhatsApp Cloud API relay: send a message via curl, watch replies via Vercel's log stream."
+}
